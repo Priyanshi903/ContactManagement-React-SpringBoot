@@ -1,0 +1,9 @@
+.searchBox {
+  align-items: center;
+}
+.addContact {
+  color: white;
+  margin-top: 1.5rem;
+  background-color: rgba(128, 0, 128, 0.89);
+  float: right;
+}

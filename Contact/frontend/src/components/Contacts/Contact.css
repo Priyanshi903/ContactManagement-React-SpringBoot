@@ -1,0 +1,32 @@
+button {
+  color: white;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-color: white;
+  cursor: pointer;
+}
+#delete {
+  border-color: red;
+  background: rgba(255, 0, 0, 0.589);
+}
+.edit {
+  border-color: blue;
+  background-color: rgba(27, 27, 221, 0.733);
+}
+li {
+  display: inline;
+  margin-right: 30px;
+}
+.edit:hover {
+  background-color: blue;
+}
+
+#delete:hover {
+  background-color: rgb(255, 0, 0);
+}
+
+.mobileNo {
+  color: rgb(6, 6, 136);
+  text-decoration: underline;
+}

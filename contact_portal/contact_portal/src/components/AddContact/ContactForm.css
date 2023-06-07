@@ -1,0 +1,37 @@
+form {
+  margin-top: 1.5rem;
+  background-color: rosybrown;
+  padding: 2rem;
+  font-size: large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+input {
+  margin-left: 0.75rem;
+  height: 25px;
+  margin-right: 1.5rem;
+  border-radius: 5px;
+  border: white;
+  width: 25rem;
+}
+
+input:focus {
+  background-color: powderblue;
+  border: 3px solid grey;
+}
+
+.saveButton {
+  color: white;
+  background-color: green;
+  float: right;
+  margin-right: 1.5rem;
+  border: 0px solid rosybrown;
+}
+.cancelButton {
+  color: white;
+  background-color: red;
+  float: right;
+  border: 0px solid rosybrown;
+}

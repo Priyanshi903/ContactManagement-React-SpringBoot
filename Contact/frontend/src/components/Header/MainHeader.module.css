@@ -1,0 +1,11 @@
+.navbar {
+  background-color: rgba(128, 0, 128, 0.89);
+  color: white;
+  font-size: 2.5rem;
+  padding: 1.2rem;
+  position: sticky;
+  top: 0;
+}
+.navbar i {
+  margin-left: 1.2rem;
+}
